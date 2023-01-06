@@ -1,6 +1,12 @@
 # Proyecto II Ludovico Silva :sparkles:
 _Proyecto necesario para la obtención de titulo en tecnico en informatica en el Tecnologico Ludovico Silva aulas moviles Maturín_
 
+
+<p align="center">
+<img width="200" src="https://i.ibb.co/yym6Vb1/logoludov.png" alt="Material Bread logo">
+</p>
+
+
 _SISTEMA AUTOMATIZADO PARA EL CONTROL DE VENTAS EN SUMINISTROS MIRANDA 200 C.A, DE “EL TIGRITO” ESTADO ANZOÁTEGUI_ :page_facing_up:
 ## Estudiantes:
   ## * :busts_in_silhouette: Ricardo Amundaray
