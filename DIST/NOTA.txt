@@ -1,0 +1,12 @@
+
+Para la correcta ejecución del archivo .jar es necesario que este en el mismo directorio donde se encuentren las carpetas "lib" (con los archivos de librerias) y "recursos".
+
+> carpeta raiz
+
+.> lib 
+..> ...librerias...
+
+.> recursos
+..> reports
+
+.> Proyecto_Ludovico_Silva_Final.jar
