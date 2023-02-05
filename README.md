@@ -22,7 +22,7 @@ _SISTEMA AUTOMATIZADO PARA EL CONTROL DE VENTAS EN SUMINISTROS MIRANDA 200 C.A, 
 
 >:lock: Licencia:
 >
->Copyright 2022 RicardoA
+>Copyright 2022 R. Amundaray, F. Rojas & R. Torcatt
 >
 >Por la presente se concede permiso, libre de cargos, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el >"Software"), a utilizar el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar, >y/o vender copias del Software, y a permitir a las personas a las que se les proporcione el Software a hacer lo mismo, sujeto a las siguientes condiciones:
 >
