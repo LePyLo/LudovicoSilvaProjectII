@@ -11,7 +11,7 @@ _SISTEMA AUTOMATIZADO PARA EL CONTROL DE VENTAS EN SUMINISTROS MIRANDA 200 C.A, 
 ## Estudiantes:
   ## * :busts_in_silhouette: Ricardo Amundaray
   ## * :busts_in_silhouette: Francelys Rojas
-  ## * :busts_in_silhouette: Renzo Torcat
+  ## * :busts_in_silhouette: Renzo Torcatt
 
 
 >Para el desarrollo de este proyecto se buscó desarrollar un sistema que permita contrarrestar los problemas existentes en la empresa Suministros Miranda 200 C.A.  De este modo se contactó con la Gerente Regional, la cual nos suministró información para poder desarrollar y avanzar en el proyecto. 
